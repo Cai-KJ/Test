@@ -1,0 +1,6 @@
+[1010/191703:WARNING:browser_accessibility_manager_win.cc(87)] Not firing AX event because of no delegate
+[1010/191703:WARNING:browser_accessibility_manager_win.cc(178)] Not firing AX event because of no root_delegate or hwnd
+[1010/191703:WARNING:browser_accessibility_manager_win.cc(87)] Not firing AX event because of no delegate
+[1010/191703:WARNING:browser_accessibility_manager_win.cc(178)] Not firing AX event because of no root_delegate or hwnd
+[1010/191708:WARNING:raw_channel_win.cc(532)] WriteFile: 管道正在被关闭。 (0xE8)
+[1010/191708:WARNING:channel.cc(358)] RawChannel write error
